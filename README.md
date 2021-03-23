@@ -1,5 +1,8 @@
 # Plantico
 <html>
+ <head>
+  <link rel="shortcut icon" href="WIN_20210323_12_14_32_Pro.jpg">
+ </head>
  <body>
   <p><strong>Plantando el mundo</strong></p>
   <a href="https://drive.google.com/file/d/1Mfu81f3SUbSgRLAA5q5Vff0LlhMl9wVm/view"><img src="WIN_20210323_12_14_32_Pro.jpg"></a>
