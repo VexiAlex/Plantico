@@ -3,6 +3,6 @@
   <body>
    <p><strong>Plantando el mundo</strong></p>
    <img src="images (7).jpg">
-   <p>***Todo este texto es importante***</p>
+   <p>:+1:</p>
   <body>
  <html>
