@@ -12,14 +12,5 @@
  </body>
  <body>
   <p> Aquí os pondremos algunos ejemplos de nuestras creaciones: </p>
-  * * *
-
-***
-
-*****
-
-- - -
-
----------------------------------------
-
+  
 <html>
