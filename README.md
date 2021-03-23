@@ -2,6 +2,6 @@
  <html>
   <body>
    <p><strong>Plantando el mundo</strong></p>
-   <img src: sembrar-alimentos-en-botellas.jpg>
+   ![alt text](images (7).jpg)
   <body>
  <html>
