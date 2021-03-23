@@ -3,7 +3,6 @@
  <body>
   <p><strong>Plantando el mundo</strong></p>
   <img src="WIN_20210323_12_14_32_Pro.jpg">
-  <a title="Planticon" href="file:///C:/Users/Maite%20Urech/Downloads/Publicidad%20Semana%20Cultural%20(1).mp4"><img src="WIN_20210323_12_14_32_Pro.jpg" alt="Planticon" /></a>
   <pre><code>
   Queremos acabar con la contaminación y por ello recolectamos
   botellas de plástico quela gente no quiere, las rellenamos con tierra
@@ -23,7 +22,7 @@
 
 <table>
     <tr>
-        <td>Foo</td>
+        <td>:smile:</td>
     </tr>
 </table>
 
