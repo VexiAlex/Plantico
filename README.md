@@ -68,9 +68,10 @@
 
   <h2> Cómo podemos ayudar a reciclar? </h2>
   <pre><code>
-  La mejor forma para ayudarnos a reciclar es trayendo a <strong>Planticon</strong> 
+  La mejor forma para ayudarnos a reciclar es trayendo a <strong>Plantico</strong> 
   todas las botellas de plástico que ya no necesites, eso nos ayudaría un montón, no sólo
   a nosotros, sino que también ayudas al medio ambiente. Cada granito de arena cuenta.
   </code></pre>
-  <h3> Planticon, sembrando el mundo </h3>
- <html>
+  <h3> Plantico, sembrando el mundo </h3>
+ </body>
+<html>
