@@ -11,6 +11,15 @@
   </code></pre>
  </body>
  <body>
- <p> Aquí os pondremos algunos ejemplos de nuestras creaciones: </p>
- <a href="quien-soy.html">Quién soy</a>
+  <p> Aquí os pondremos algunos ejemplos de nuestras creaciones: </p>
+  * * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+
 <html>
