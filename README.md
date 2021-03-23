@@ -14,7 +14,7 @@
 ---------------------------------------
  </body>
  <body>
-  <p> Aquí os pondremos algunos ejemplos de nuestras creaciones: </p>
+  <h2> Aquí os pondremos algunos ejemplos de nuestras creaciones: </h2>
   <img src="images (7).jpg">
   <p><code>
   En esta imagen hémos plantado césped dentro de unas botellas de plástico que hémos recibido de personas que han querido reciclarlas, así que se fueron   a nuestra empresa y nosotros las reutilizamos de esta manera.
@@ -73,4 +73,16 @@
 
 ---------------------------------------
   <img src="usar-botellas-de-plastico.jpg">
-<html>
+ </body>
+ <body>
+       
+
+---------------------------------------
+  <h2> Cómo podemos ayudar a reciclar? </h2>
+  <pre><code>
+  La mejor forma para ayudarnos a reciclar es trayendo a <strong>Planticon</strong> 
+  todas las botellas de plástico que ya no necesites, eso nos ayudaría un montón, no sólo
+  a nosotros, sino que también ayudas al medio ambiente. Cada granito de arena cuenta.
+  </code></pre>
+  <h3> Planticon, sembrando el mundo </h3>
+ <html>
