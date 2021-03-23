@@ -9,6 +9,7 @@
   fresca y plantaremos bonitas plantas, de esta manera podremos reciclar 
   muchas botellas de plástico, y que haya más oxigeno en la Tierra. </code></pre>
   </code></pre>
+---------------------------------------------------------------------------------------------------------------------------------------------------------
  </body>
  <body>
   <p> Aquí os pondremos algunos ejemplos de nuestras creaciones: </p>
