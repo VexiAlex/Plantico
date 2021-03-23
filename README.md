@@ -19,5 +19,5 @@
   <p><code>
   En esta imagen hémos plantado césped dentro de unas botellas de plástico que hémos recibido de personas que han querido reciclarlas, así que se fueron   a nuestra empresa y nosotros las reutilizamos de esta manera.
   </code></p>
- <p>Un apostrofe invertido en un segmento de código: <code>`</code></p>
+  <p>Por favor no utilice ninguna etiqueta <code>&lt;blink&gt;</code>.</p>
 <html>
