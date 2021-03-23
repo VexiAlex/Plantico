@@ -3,7 +3,6 @@
  <body>
   <p><strong>Plantando el mundo</strong></p>
   <img src="WIN_20210323_12_14_32_Pro.jpg">
-  <a href="file:///C:/Users/Maite%20Urech/Downloads/Publicidad%20Semana%20Cultural%20(1).mp4">Ir a Google</a>
   <pre><code>
   Queremos acabar con la contaminación y por ello recolectamos
   botellas de plástico quela gente no quiere, las rellenamos con tierra
@@ -20,5 +19,13 @@
   <p><code>
   En esta imagen hémos plantado césped dentro de unas botellas de plástico que hémos recibido de personas que han querido reciclarlas, así que se fueron   a nuestra empresa y nosotros las reutilizamos de esta manera.
   </code></p>
-  
+  Este es un párrafo normal.
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+Este es otro párrafo normal.
 <html>
