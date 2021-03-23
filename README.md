@@ -1,17 +1,10 @@
 <html>
  <body>
-  <style>
-.city {
-  background-color: tomato;
-  color: white;
-  border: 2px solid black;
-  margin: 20px;
-  padding: 20px;
-}
-</style>
   <p><strong>Plantando el mundo</strong></p>
   <img src="images (7).jpg">
   <p>:+1:</p>
-  <div class="texto">Texto de prueba</div>
+  [![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+
+Fuente: https://www.iteramos.com/pregunta/16559/-como-incrustar-un-video-en-github-readmemd-
  <body>
 <html>
