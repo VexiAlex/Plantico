@@ -16,5 +16,5 @@
  <body>
   <p> Aquí os pondremos algunos ejemplos de nuestras creaciones: </p>
   <img src="images (7).jpg">
- <em>asteriscos simple</em>
+  <p><code>Aquí se muestra (`) un apostrofe invertido.</code></p>
 <html>
