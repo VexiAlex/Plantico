@@ -19,7 +19,6 @@
   <p><code>
   En esta imagen hémos plantado césped dentro de unas botellas de plástico que hémos recibido de personas que han querido reciclarlas, así que se fueron   a nuestra empresa y nosotros las reutilizamos de esta manera.
   </code></p>
-  Este es un párrafo normal.
 
 <table>
     <tr>
@@ -27,5 +26,4 @@
     </tr>
 </table>
 
-Este es otro párrafo normal.
 <html>
