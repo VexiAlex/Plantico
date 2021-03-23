@@ -8,10 +8,9 @@
   botellas de plástico quela gente no quiere, las rellenamos con tierra
   fresca y plantaremos bonitas plantas, de esta manera podremos reciclar 
   muchas botellas de plástico, y que haya más oxigeno en la Tierra. </code></pre>
-  </code></pre>
 
 
----------------------------------------
+
  </body>
  <body>
   <h2> Aquí os pondremos algunos ejemplos de nuestras creaciones: </h2>
@@ -27,57 +26,44 @@
   </table>
   
 
----------------------------------------
   <img src="aprobechar-las-botellas.jpg">
     
 
----------------------------------------
   <img src="descarga (11).jpg">
       
 
----------------------------------------
   <img src="fbh.jpg">
       
 
----------------------------------------
   <img src="images (10).jpg">
       
 
----------------------------------------
   <img src="huertabotellass.jpg">
         
 
----------------------------------------
   <img src="images (11).jpg">
       
 
----------------------------------------
   <img src="images (12).jpg">
       
 
----------------------------------------
   <img src="images (7).jpg">
         
 
----------------------------------------
   <img src="images (8).jpg">
         
 
----------------------------------------
   <img src="images (9).jpg">
       
 
----------------------------------------
   <img src="sembrar-alimentos-en-botellas.jpg">
       
 
----------------------------------------
   <img src="usar-botellas-de-plastico.jpg">
  </body>
  <body>
        
 
----------------------------------------
   <h2> Cómo podemos ayudar a reciclar? </h2>
   <pre><code>
   La mejor forma para ayudarnos a reciclar es trayendo a <strong>Planticon</strong> 
