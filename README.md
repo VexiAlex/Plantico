@@ -25,4 +25,8 @@
         <td>:smile:</td>
     </tr>
 </table>
+<h2>Tutoriales de HTML</h2>
+<!-- Aquí puedes colocar tus comentarios -->
+<h2>Ejemplos en HTML</h2>
+<div></div>
 <html>
